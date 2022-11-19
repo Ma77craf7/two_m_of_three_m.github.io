@@ -1,0 +1,172 @@
+body{
+	background-color: rgb(29,26,47);
+	aspect-ratio: 16 / 9;
+	width: 90%;
+	margin: auto;
+}
+
+footer{
+	background-color: rgb(63,109,78);
+	height: 10%;
+	width: 100%;
+	border-radius: 15px;
+	clear: both;
+}
+
+#topbar{
+	position: fixed;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	clear: both;
+	height: 4%;
+	top: 1%;
+	left: 5px;
+	border-radius: 15px;
+	background-color: rgb(63,109,78);
+}
+
+.title_topbar{
+	position: relative;
+	float: left;
+	border-radius: 15px;
+	width: 20%;
+	height: 80%;
+	bottom: 1%;
+	top: 5px;
+	left: 5px;
+	background-color: rgba(39, 46, 59, 0.493);
+}
+
+#title{
+	width: 100%;
+	text-align: center;
+	text-align: center;
+	line-height: 100%;
+	vertical-align: middle;
+}
+
+.item_topbar{
+	height: 50%;
+	width: 25%;
+	float: right;
+	text-align: center;
+	bottom: 1%;
+	line-height: 100%;
+	background-color: rgba(39, 46, 59, 0.493);
+	border-radius: 15px;
+	font-size: 125%;
+	overflow: hidden;
+	position: relative;
+	top: 0%;
+	right: 5px;
+}
+
+#left_topbar{
+	position: relative;
+	top:10%;
+	bottom: 10%;
+	width: 15%;
+	height: 80%;
+	vertical-align: middle;
+	float: right;
+	align-items: right;
+	justify-content: end;
+}
+
+.homepage_element{
+	background-color: darkgrey;
+	border-radius: 15px;
+	display: block;
+	margin: auto;
+	overflow: hidden;
+	text-align: center;
+}
+
+.homepage_element{
+	background-color: darkgrey;
+	border-radius: 15px;
+	display: block;
+	margin: auto;
+	overflow: hidden;
+	text-align: center;
+}
+
+#best-buy{
+	margin-top: 50%;
+	margin: auto;
+	width: 57%;
+	text-align: center;
+}
+
+#other_product{
+	float: left;
+	width: 20%;
+	margin-left: 3.3%;
+	margin-bottom: 1%;
+}
+
+a:link{
+	text-decoration: none;
+	color: black;
+}
+a:visited{
+	text-decoration: none;
+	color: black;
+}
+
+a.fill-div{
+	display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
+.productpage_element{
+	background-color: darkgrey;
+	border-radius: 15px;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+	margin:auto;
+	width: 80%;
+}
+
+.left-side{
+	float: left;
+	width: 26%;
+	margin-left: 2%;
+}
+
+.buy-button{
+	background-color: red;
+	width: 100%;
+	border-radius: 15px;
+	font-size: 300%;
+	margin: auto;
+}
+
+.price{
+	font-size: 250%;
+	text-align: center;
+	margin-top: 60%;
+	margin-bottom: 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#product-name{
+	width: 80%;
+	height: 10%;
+	font-size: 400%;
+}
+
+#product-image{
+	width: 90%;
+	border-radius: 15px;
+	height: 80%;
+}
+
+.description{
+	margin-top: 10%;
+}
